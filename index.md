@@ -20,12 +20,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 </dl>
 
 
-\
-&nbsp;
-# Recent news
 
-\
+# Recent news
 &nbsp;
+
 ## My personal page is established
 ###### Oct. 14, 2021
 
