@@ -30,7 +30,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ###### Oct. 14, 2021
 
 Thanks to Google (for Google-oriented programming) and Github (for providing the server freely), my personal page is established!
-![marmot](https://github.com/reed-lfh/reed-lfh.github.io/tree/main/assets/img/ScreamingMarmot.jpg)
+
+![marmot](/assets/img/ScreamingMarmot.jpg)
 
 <!-- # Header 1
 
