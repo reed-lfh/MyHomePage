@@ -20,14 +20,17 @@ There should be whitespace between paragraphs. We recommend including a README, 
 </dl>
 
 
-# 
+\
+&nbsp;
 # Recent news
 
+\
+&nbsp;
 ## My personal page is established
 ###### Oct. 14, 2021
 
 Thanks to Google (for Google-oriented programming) and Github (for providing the server freely), my personal page is established!
-![Octocat](https://https://github.com/reed-lfh/reed-lfh.github.io/tree/main/assets/img/Screaming-marmot.jpg)
+![Octocat](https://github.com/reed-lfh/reed-lfh.github.io/tree/main/assets/img/Screaming-marmot.jpg)
 
 <!-- # Header 1
 
