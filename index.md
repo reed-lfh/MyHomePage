@@ -15,6 +15,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <dd>Feihong Liu</dd>
 <dt>Country</dt>
 <dd>China</dd>
+<dt>Current affiliation</dt>
+<dd>The Pennsylvania State University</dd>
 <dt>Research interests</dt>
 <dd>Numerical methods, Meshfree methods, Structural dynamics, Computational fluid dynamics </dd>
 </dl>
@@ -24,6 +26,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Recent news
 
 ---
+
+## Previous study on wind-induced response is published online recently. 
+###### Oct. 15, 2021
+
+Previous work _Study on wind-induced response of a large-span roof by using finite particle method_ is publised and online now. In this study, the FPM with improved damping method is employed for analyzing the wind-induced response.
+
+![marmot](/assets/img/Windinduced.png)
 
 ## My personal page is established
 ###### Oct. 14, 2021
