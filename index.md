@@ -19,10 +19,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <dd>Numerical methods, Meshfree methods, Structural dynamics, Computational fluid dynamics </dd>
 </dl>
 
-
+---
 
 # Recent news
-&nbsp;
+
+---
 
 ## My personal page is established
 ###### Oct. 14, 2021
