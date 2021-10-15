@@ -9,7 +9,7 @@ layout: default
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-### About me.
+## About me
 <dl>
 <dt>Name</dt>
 <dd>Feihong Liu</dd>
@@ -19,11 +19,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <dd>Numerical methods, Meshfree methods, Structural dynamics, Computational fluid dynamics </dd>
 </dl>
 
-# My personal page is established
+
+# 
+# Recent news
+
+## My personal page is established
 ###### Oct. 14, 2021
 
 Thanks to Google (for Google-oriented programming) and Github (for providing the server freely), my personal page is established!
-
+![Octocat](https://https://github.com/reed-lfh/reed-lfh.github.io/tree/main/assets/img/Screaming-marmot.jpg)
 
 <!-- # Header 1
 
