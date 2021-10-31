@@ -5,4 +5,6 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 postimage: /assets/img/dambreak.png
-postimagedescription: Modeled by incoming LEDS2D
+postimagedescription: Dambreak modeled by incoming LEDS2D
+postimage: /assets/img/slumptest.png
+postimagedescription: Slump test modeled by incoming LEDS2D
