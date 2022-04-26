@@ -35,10 +35,6 @@ Viscous-plastic flow, a interesting constitutive model for 3D concrete printing,
 ![marmot](/assets/img/couette flow.jpg)
 
 _Cessation profiles of Couette flow with Bingham type viscosity. (Ref: Chatzimina et. al.,Cessation of Couette and Poiseuille flows of a Bingham plastic and finite stopping times, 2005.)_
-
-![marmot](/assets/img/StokesFlowConv.png)
-
-_Convergence analysis on modeling Stokes flow._
 ---
 
 ## Previous study on wind-induced response is published online recently. 
