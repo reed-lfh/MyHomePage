@@ -32,12 +32,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Viscous-plastic flow, a interesting constitutive model for 3D concrete printing, now is supported in the incoming LEDS project. A totally meshfree implementation for both Lagrangian and Eulerian description.
 
 
-![marmot](/assets/img/couette flow.png)
+![marmot](/assets/img/couette flow.jpg)
 
-_Cessation profiles of Couette Bingham flow. (Ref: Chatzimina et. al.,Cessation of Couette and Poiseuille flows of a Bingham
-plastic and finite stopping times, 2005.)
+_Cessation profiles of Couette flow with Bingham type viscosity. (Ref: Chatzimina et. al.,Cessation of Couette and Poiseuille flows of a Bingham plastic and finite stopping times, 2005.)
 
 ![marmot](/assets/img/StokesFlowConv.png)
+
 _Convergence analysis on modeling Stokes flow.
 ---
 
