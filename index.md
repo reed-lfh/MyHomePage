@@ -26,6 +26,18 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Recent news
 ---
 
+## Modeling multi-phase flow by LEDS Lagrangian solver. 
+###### Jul. 5, 2022
+
+Author is finishing the ending stage for LEDS's Alpha version! Here author wants to share the multi-phase flow modeling by using LEDS Lagrangian solver.
+
+
+![marmot](/assets/img/Bubble.gif)
+
+_Coalescence of two bubbles._
+
+---
+
 ## Viscous-plastic flow, the model for 3D concrete printing. 
 ###### Mar. 20, 2022
 
