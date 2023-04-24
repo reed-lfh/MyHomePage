@@ -26,6 +26,18 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Recent news
 ---
 
+## Ready for USNCCM17!
+###### Apr. 19, 2023
+
+Author is selected to receive the USNCCM17 Travel Award! We will bring the recent advancement on the cryo-ultrasonic non-destructive evaluation technique.
+
+
+![marmot](/assets/img/polyCrystal.png)
+
+_Wave propagation in polycrystalline structure._
+
+---
+
 ## Modeling multi-phase flow by LEDS Lagrangian solver. 
 ###### Jul. 5, 2022
 
