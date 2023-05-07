@@ -34,7 +34,7 @@ Author is selected to receive the USNCCM17 Travel Award! We will bring the recen
 
 ![marmot](/assets/img/polyCrystal.png)
 
-_Wave propagation in polycrystalline structure._
+_Varied arrival time in homogeneous medium._
 
 ---
 
