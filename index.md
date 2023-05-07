@@ -25,7 +25,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Recent news
 ---
-
+ 
 ## Ready for USNCCM17!
 ###### Apr. 19, 2023
 
