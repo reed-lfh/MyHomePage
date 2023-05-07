@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <dt>Current affiliation</dt>
 <dd>The Pennsylvania State University</dd>
 <dt>Research interests</dt>
-<dd>Numerical methods, Meshfree methods, Structural dynamics, Computational fluid dynamics </dd>
+<dd>Numerical methods, Acoustics, Meshfree methods, Structural dynamics, Computational fluid dynamics </dd>
 </dl>
 
 ---
