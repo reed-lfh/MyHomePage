@@ -25,6 +25,29 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Recent news
 ---
+
+## A real Ph.D. candidate is born!
+###### Aug. 9, 2023
+
+Author passed the comprehensive exam! In the following years, I will continue my computational and analytical work in the study of wave problems with complex microstructures!
+
+
+![marmot](/assets/img/sunflower.jpg)
+
+_Always be positive!_
+
+ 
+## Ready for USNCCM17!
+###### Apr. 19, 2023
+
+Author is selected to receive the USNCCM17 Travel Award! We will bring the recent advancement on the cryo-ultrasonic non-destructive evaluation technique.
+
+
+![marmot](/assets/img/polyCrystal.png)
+
+_Varied arrival time in homogeneous medium._
+
+---
  
 ## Ready for USNCCM17!
 ###### Apr. 19, 2023
