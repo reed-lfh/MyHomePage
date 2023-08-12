@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <dl>
 <dt>Name</dt>
 <dd>Feihong Liu</dd>
-<dt>Country</dt>
+<dt>Living country</dt>
 <dd>China</dd>
 <dt>Current affiliation</dt>
 <dd>The Pennsylvania State University</dd>
@@ -32,7 +32,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Author passed the comprehensive exam! In the following years, I will continue my computational and analytical work in the study of wave problems with complex microstructures!
 
 
-![marmot](/assets/img/sunflower.jpg)
+![marmot](/assets/img/flower.jpg)
 
 _Always be positive!_
 
