@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <dl>
 <dt>Name</dt>
 <dd>Feihong Liu</dd>
-<dt>Living country</dt>
+<dt>Country</dt>
 <dd>China</dd>
 <dt>Current affiliation</dt>
 <dd>The Pennsylvania State University</dd>
@@ -35,17 +35,6 @@ Author passed the comprehensive exam! In the following years, I will continue my
 ![marmot](/assets/img/flower.jpg)
 
 _Always be positive!_
-
- 
-## Ready for USNCCM17!
-###### Apr. 19, 2023
-
-Author is selected to receive the USNCCM17 Travel Award! We will bring the recent advancement on the cryo-ultrasonic non-destructive evaluation technique.
-
-
-![marmot](/assets/img/polyCrystal.png)
-
-_Varied arrival time in homogeneous medium._
 
 ---
  
