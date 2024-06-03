@@ -26,7 +26,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Recent news
 ---
 
-## Collabrated article on printing concrete modeling is online now.
+## New collabrated article on printing concrete modeling is online now.
 ###### May 6, 2024
 
 Our article titled "Modeling Concrete Deposition via 3D Printing Using the Reproducing Kernel Particle Method (RKPM)" has been published in Cement and Concrete Research and is now available online. This work highlights the advantages and possibilities of using RKPM for viscous flow modeling.
