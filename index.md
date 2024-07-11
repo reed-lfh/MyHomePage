@@ -25,7 +25,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Recent news
 ---
-## Our new article on the ice project, titled "Green's-Function-Based Modeling Scheme for Elastic Wave Characterization," has been accepted.
+## Our new article on the ice project has been accepted.
 ###### Jul. 10, 2024
 
 Achieving a tunable coupled ultrasonic non-destructive test requires reliable prediction of the elastic wave properties of the coupled medium. Our article develops a new scheme based on Green's function, with an emphasis on numerical dispersion and dissipation in the homogenization process. This is ideal for bridging the gap between numerical wave modeling and established analytical statistical approaches.
